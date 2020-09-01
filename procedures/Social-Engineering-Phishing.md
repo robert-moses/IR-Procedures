@@ -9,8 +9,8 @@
 
 ### EREDICATE
 #### Purge phishing email from all mailboxes
-##### Create new Content Search
-##### Execute Purge (using search form above)
+* Create new Content Search
+* Execute Purge (using search form above)
 ```powershell
 Set-ExecutionPolicy RemoteSigned
 $UserCredential = Get-Credential
