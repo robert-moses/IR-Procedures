@@ -9,7 +9,7 @@
 
 ### EREDICATE
 #### Purge phishing email from all mailboxes
-##### Create new search
+##### Create new Content Search
 ##### Execute Purge (using search form above)
 Set-ExecutionPolicy RemoteSigned
 $UserCredential = Get-Credential
