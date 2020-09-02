@@ -1,20 +1,15 @@
-** Virus or Malicous Code Procedure **
+** Denial of Service Procedure **
 
 
-DETECT
+### DETECT
 
+### ANALYZE
 
-ANALYZE
+### CONTAIN
 
+### ERADICATE
 
-CONTAIN
-
-
-EREDICATE
-
-
-
-RECOVER
+### RECOVER
 
 
 
