@@ -4,10 +4,19 @@
 ### DETECT
 
 ### ANALYZE
+* Identify impacted user/mailbox/email address
+* Capture phishing email artificact (export/save as EML or MSG file)
+* Search Audit Logs, Azure Sign-In data, Message Trace
 
 ### CONTAIN
+* Disable email login
+  * O365: 
+  * AD/OnPrem Exchange
+  * Other system: depentant on application
 
-### EREDICATE
+ 
+
+### ERADICATE
 #### Purge phishing email from all mailboxes
 * Create new Content Search
   * https://protection.office.com/contentsearchbeta?ContentOnly=1
