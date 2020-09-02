@@ -10,8 +10,8 @@
 ### EREDICATE
 #### Purge phishing email from all mailboxes
 * Create new Content Search
-** https://protection.office.com/contentsearchbeta?ContentOnly=1
-** Create new search with date-range, subject line, details from message body....(goal is to limit scope)
+  * https://protection.office.com/contentsearchbeta?ContentOnly=1
+  * Create new search with date-range, subject line, details from message body....(goal is to limit scope)
 * Export contents, save to incident file
 * Execute Purge (using search form above)
 ```powershell
