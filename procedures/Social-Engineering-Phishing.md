@@ -7,13 +7,15 @@
 * Identify impacted user/mailbox/email address
 * Capture phishing email artificact (export/save as EML or MSG file)
 * Search Audit Logs, Azure Sign-In data, Message Trace
+* Inspect user mailbox rules/forwarding rules
 
 ### CONTAIN
 * Disable email login
   * O365: 
   * AD/OnPrem Exchange
   * Other system: depentant on application
-
+* Disable/Remove malicious mailbox rules
+* 
  
 
 ### ERADICATE
