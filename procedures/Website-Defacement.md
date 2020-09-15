@@ -1,18 +1,13 @@
-## Website Defacement Procedure **
+### Website Defacement Procedure
 
 
 ### DETECT
 
-
-#### ANALYZE
-
+### ANALYZE
 
 ### CONTAIN
 
-
 ### ERADICATE
-
-
 
 ### RECOVER
 
