@@ -1,20 +1,14 @@
-** Virus or Malicous Code Procedure **
+### Hoax / Email Procedure
 
+### DETECT
 
-DETECT
+### ANALYZE
 
+### CONTAIN
 
-ANALYZE
+### ERADICATE
 
-
-CONTAIN
-
-
-EREDICATE
-
-
-
-RECOVER
+### RECOVER
 
 
 
