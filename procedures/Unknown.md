@@ -1,20 +1,20 @@
-** Virus or Malicous Code Procedure **
+### Unknown - ie: TBD incident
 
 
-DETECT
+### DETECT
 
 
-ANALYZE
+### ANALYZE
 
 
-CONTAIN
+### CONTAIN
 
 
-EREDICATE
+### ERADICATE
 
 
 
-RECOVER
+### RECOVER
 
 
 
