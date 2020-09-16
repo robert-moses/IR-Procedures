@@ -1,20 +1,19 @@
-** Virus or Malicous Code Procedure **
+### Virus or Malicous Code Procedure **
 
 
-DETECT
+### DETECT
 
 
-ANALYZE
+### ANALYZE
 
 
-CONTAIN
+### CONTAIN
 
 
-EREDICATE
+### EREDICATE
 
 
-
-RECOVER
+### RECOVER
 
 
 
