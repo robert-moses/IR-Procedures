@@ -1,5 +1,4 @@
-** Social-Engineering (Email Phishing) **
-
+### Social-Engineering (Email Phishing)
 
 ### DETECT
 
@@ -17,7 +16,6 @@
 * Disable/Remove malicious mailbox rules
 * 
  
-
 ### ERADICATE
 #### Purge phishing email from all mailboxes
 * Create new Content Search
