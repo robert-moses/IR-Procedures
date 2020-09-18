@@ -4,18 +4,21 @@
 
 ### ANALYZE
 * Identify impacted user/mailbox/email address
+    * Maintain List of affected mailboxes
 * Capture phishing email artificact (export/save as EML or MSG file)
-* Search Audit Logs, Azure Sign-In data, Message Trace
+* Per user, hunt for IoC:
+    * Search Audit Logs, Azure Sign-In data, Message Trace
 * Inspect user mailbox rules/forwarding rules
 
 ### CONTAIN
-* Disable email login
-  * O365: 
-  * AD/OnPrem Exchange
-  * Other system: depentant on application
-* Disable/Remove malicious mailbox rules
-* 
- 
+* IF credential comprise is suspected:
+    * Disable email login
+        * O365: 
+        * AD/OnPrem Exchange
+        * Other system: depentant on application
+    * Disable/Remove malicious mailbox rules
+*
+
 ### ERADICATE
 #### Purge phishing email from all mailboxes
 * Create new Content Search
